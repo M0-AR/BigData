@@ -1,2 +1,1 @@
-# BigData
-62527 Big Data Spring 21
+# Machine learning and data mining project [report](Big_Data_final_report.pdf)
