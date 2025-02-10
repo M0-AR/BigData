@@ -16,6 +16,8 @@ Analyzes online shopping behavior to predict customer purchase intentions using 
 - Support Vector Machines
 - Hierarchical Clustering
 
+For detailed analysis and results, see the [Final Report](Big_Data_final_report.pdf).
+
 ## Project Structure
 ```
 BigData/
